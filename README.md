@@ -3,7 +3,7 @@
 A new Flutter project.
 
 ## Getting Started
-
+<img src="https://github.com/Mirzaazmath/flutter_hive_sample/blob/main/assets/result.gif" height="400">
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
